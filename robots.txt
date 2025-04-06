@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://haotianw177.github.io/notre-dame-responsible-computing/sitemap-index.xml
+Sitemap: https://astro-paper.pages.dev/sitemap-index.xml
