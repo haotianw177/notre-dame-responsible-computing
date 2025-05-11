@@ -2,7 +2,7 @@
 author: Sat Naing
 pubDatetime: 2022-09-23T15:22:00Z
 modDatetime: 2025-03-22T06:25:46.734Z
-title: Adding new posts in AstroPaper theme
+title: Inclusive and Accessible Design
 slug: adding-new-posts-in-astropaper-theme
 featured: true
 draft: false
@@ -13,7 +13,7 @@ description:
   theme.
 ---
 
-Here are some rules/recommendations, tips & ticks for creating new posts in AstroPaper blog theme.
+Theme: Ensuring that technology is accessible to all users, including those with disabilities.
 
 <figure>
   <img
@@ -27,7 +27,9 @@ Here are some rules/recommendations, tips & ticks for creating new posts in Astr
 
 ## Table of contents
 
-## Creating a Blog Post
+### Authors: 
+
+## Inclusive and Accessible Design
 
 To write a new blog post, create a markdown file inside the `src/data/blog/` directory.
 
